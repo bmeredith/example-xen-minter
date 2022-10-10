@@ -9,7 +9,7 @@
    1. `SEED` is the seed phrase that will be used.
    2. `NUM_WALLETS` is the number of wallets that will be used to mint/claim XEN.
    3. `CLAIM_ADDRESS` is the wallet address to send all XEN to when claiming.
-2. Open the directory where XEN Minter is located and run the following in order to start the app:
+2. Run the following in order to start the app:
     ```console
     $ yarn
     $ yarn run start
